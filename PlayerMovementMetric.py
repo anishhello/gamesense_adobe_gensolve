@@ -9,7 +9,7 @@ import os
 import pandas as pd
 import shutil
 model2=genai.GenerativeModel('gemini-1.5-flash')
-genai.configure(api_key='AIzaSyAo5RwHPGsmlRiVjCE0o-ELD-DDn6Kg8mY')
+genai.configure(api_key='*******') #use your own API Key
 
 model=genai.GenerativeModel('gemini-pro')
 
