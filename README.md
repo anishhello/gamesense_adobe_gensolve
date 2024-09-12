@@ -31,12 +31,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-+ Upload Video and Download it to view the results. 🤩
++ Upload the Video and Download it to view the results. 🤩
 
 ## Limitations and Restrictions:
 
-+ Our Project expects 1280x720 resolution video(30fps).
-+ Due to CPU Processing on local system, some of the AI Generation results may show response time exceeded or quota exhausted. So use Colab or Kaggle to compute the real time AI generation.
++ Make sure you have a stable internet connection. It is required to generate content from GenAI.
++ Our Project expects 1280x720 resolution video(30fps). (To overcome this problem we integrated a resizer, giving any resolution it converts it to 1280x720 itself.)
++ Due to CPU Processing on local system, some of the AI Generation results may show response time exceeded or quota exhausted. So use Colab or Kaggle to compute the real-time AI generation.
 
 
 
