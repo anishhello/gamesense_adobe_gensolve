@@ -36,8 +36,9 @@ streamlit run app.py
 ## Limitations and Restrictions:
 
 + Make sure you have a stable internet connection. It is required to generate content from GenAI.
-+ Our Project expects 1280x720 resolution video(30fps). (To overcome this problem we integrated a resizer, giving any resolution it converts it to 1280x720 itself.)
-+ Due to CPU Processing on local system, some of the AI Generation results may show response time exceeded or quota exhausted. So use Colab or Kaggle to compute the real-time AI generation.
++ Our Project expects 1280x720 resolution video(30fps). (To overcome this problem we integrated a resizer, giving any resolution that converts it to 1280x720 itself.)
++ Due to CPU Processing on the local system, some of the AI Generation results may show response time exceeded or quota exhausted. So use Colab or Kaggle to compute the real-time AI generation.
++ Moreover, the CPU isn't able to process a video of more than 15 seconds so, divide the bigger video into smaller ones and obtain the results.
 
 
 
