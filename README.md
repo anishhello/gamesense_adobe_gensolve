@@ -1,7 +1,7 @@
 # GameSense: AI-Powered Insights for Tennis 🎾
 
 ### Developed by: Arin Gupta, Anish Kumar, Abhishekh Sinha (Team Brahma_Hackers)
-#### This is the final Project for the National Finale of Adobe GenSolve 2024.
+#### This is the final Project for the National Finale of Adobe GenSolve 2024 ([Presentation](https://drive.google.com/file/d/1kjCCLIzCjBdmHp-8kW-ZD34KQI93jT-e/view?usp=drive_link))
 
 ## Introduction
 
